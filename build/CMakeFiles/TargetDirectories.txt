@@ -1,0 +1,3 @@
+/home/qz1027/codeBase/counter/build/CMakeFiles/rebuild_cache.dir
+/home/qz1027/codeBase/counter/build/CMakeFiles/edit_cache.dir
+/home/qz1027/codeBase/counter/build/CMakeFiles/main.dir

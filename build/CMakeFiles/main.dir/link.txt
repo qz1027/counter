@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/calculate.cpp.o CMakeFiles/main.dir/src/manageMent.cpp.o  -o main 
